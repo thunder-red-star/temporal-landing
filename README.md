@@ -1,1 +1,2 @@
 # poop
+[![Deploy Nuxt site to Pages](https://github.com/thunder-red-star/temporal-landing/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/thunder-red-star/temporal-landing/actions/workflows/nuxtjs.yml)
